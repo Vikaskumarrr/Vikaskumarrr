@@ -1,4 +1,4 @@
-<h1 align="center" >Hi👋 I'm Vikas Bhandari</h1>
+<h1 align="center" >Hi👋 I'm Vikas  Bhandari</h1>
 
 # 💫 About Me:
 A passionate MERN Stack Developer with a knack for crafting dynamic, user-friendly websites packed with advanced functionalities. I specialize in bringing creative ideas to life with clean code, innovative designs, and a deep understanding of modern web technologies.
