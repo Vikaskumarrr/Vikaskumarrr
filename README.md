@@ -92,10 +92,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vikaskumarrr/Vikaskumarrr/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vikaskumarrr/Vikaskumarrr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vikaskumarrr/Vikaskumarrr/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vikaskumarrr/Vikaskumarrr/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
-
-> 💡 To generate the animated snake above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo — it commits an animated SVG of your contribution graph on a schedule.
 
 ### ✍️ Random Dev Quote
 
