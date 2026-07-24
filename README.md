@@ -26,17 +26,12 @@
 
 ### 🧬 Current Focus
 
-```text
-class Vikas:
-    def __init__(self):
-        self.role = "ML / GenAI / Agentic AI Developer"
-        self.background = "Full Stack (MERN) Developer"
-        self.currently_learning = ["Machine Learning", "Generative AI", "Agentic AI", "DevOps"]
-        self.goal = "Build autonomous, intelligent, production-ready AI systems"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent!")
-```
+| | |
+|---|---|
+| 🎯 **Role** | ML / GenAI / Agentic AI Developer |
+| 🧩 **Background** | Full Stack (MERN) Developer |
+| 📚 **Currently Learning** | Machine Learning · Generative AI · Agentic AI · DevOps |
+| 🚀 **Goal** | Build autonomous, intelligent, production-ready AI systems |
 
 ---
 
@@ -80,7 +75,7 @@ class Vikas:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikaskumarrr&show_icons=true&theme=radical&hide_border=false&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikaskumarrr&show_icons=true&theme=radical&hide_border=false" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikaskumarrr&theme=radical&hide_border=false" height="165" />
 </p>
 
